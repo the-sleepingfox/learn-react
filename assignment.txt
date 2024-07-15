@@ -1,7 +1,18 @@
 What is Emmet...?
 
+VS Code built in feature to code us faster by just writing shortforms and selecting
+the suggested keywords.
+
 What is CDN...?
+
+Content Delivery Network is a distributed system of servers all over the internet
+through the AWS and Google Coude Storage so it makes the loading of webpage faster.
 
 what is Crossorigin...?
 
+Crosssorigin is mainly known as request made from one domain
+to other domain it help to load the packegs/scripts faster to the user end.
+
 what is Props...?
+
+short form for properties used to pass properties from parent function to chid function.
